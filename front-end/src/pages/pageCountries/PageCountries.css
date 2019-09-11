@@ -1,0 +1,23 @@
+.PageCountries{
+    margin: 67px auto;
+    width: 800px;
+    overflow: auto;
+}
+
+.countriesTable{
+    text-align: left;
+    width: inherit;
+    
+}
+.countriesTable > table{
+    table-layout: fixed;
+}
+
+.countriesTable td{
+    padding: 15px 0;
+    width: 25%;
+}
+
+.tableDivinder td{
+    border-bottom: 1px solid #98989873;
+}
